@@ -1,0 +1,1 @@
+delete this.data[this.length -1];
