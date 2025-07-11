@@ -1,17 +1,3 @@
-// const studentdb = ['divyansh','jaishree','pragya','mahur'];
-
-// function find(studentdb,studentName){
-//     for(i = 0 ; i < studentdb.length ; i++){
-//         if(studentdb[i] === studentName){
-//             console.log(`Found ${studentName}`);
-//         }
-// }
-
-
-// };
-
-// find(studentdb,'divyansh');
-
 // ----------------CUSTOM ARRAY------------------------------
 
 class ArrayDb {
