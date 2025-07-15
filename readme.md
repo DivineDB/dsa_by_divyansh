@@ -7,11 +7,11 @@ Each folder represents a different problem with clean and tested code.
 
 ## 📁 Folder Structure
 
-| #   | Problem Title        | Language   | Folder Link                 |
-| --- | -------------------- | ---------- | --------------------------- |
+| #   | Problem Title        | Language   | Folder Link                    |
+| --- | -------------------- | ---------- | ---------------------------    |
 | 001 | Custom Array in JS   | JavaScript | [View](./001-custom-array/)    |
-| 002 | [Next Problem Title] | JavaScript | [View](./002-next-problem/)    |
-| 003 | [Another Problem]    | JavaScript | [View](./003-another-problem/) |
+| 002 | Reverse String       | JavaScript | [View](./002-Reverse-String/)    |
+| 003 | Palindrome Checker   | JavaScript | [View](./003-Palindromes/) |
 
 > ✅ More folders coming soon as I solve them
 
