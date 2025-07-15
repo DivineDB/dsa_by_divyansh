@@ -1,4 +1,4 @@
-// Checks whether a given string is a palindrome.
+// Checks whether a given string is a Palindrome.
 
 // An arrow function is assigned to the variable "isPalindrome".
 // It takes a string "str", reverses it, and compares it to the original string.
@@ -10,5 +10,5 @@
 const isPalindrome = str => str === str.split("").reverse().join("")
 ? "Palindrome" : "Not a Palindrome";
 
-console.log(isPalindrome("abba"));
-console.log(isPalindrome("divyansh"));
+console.log(isPalindrome("abba"));         //Palindrome
+console.log(isPalindrome("divyansh"));     //Not a Palindrome
