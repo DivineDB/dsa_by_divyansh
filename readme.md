@@ -20,9 +20,7 @@ Each folder represents a different problem with clean and tested code.
 ## 🚀 Platforms I Practice On
 
 - [LeetCode](https://leetcode.com/)
-- [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [Codeforces](https://codeforces.com/)
-- [HackerRank](https://www.hackerrank.com/)
 
 ---
 
@@ -49,9 +47,8 @@ Each folder represents a different problem with clean and tested code.
 
 ## 👨‍💻 About Me
 
-I'm Divyansh, learning full-stack and DSA to crack big tech and become a world-class engineer.
+I'm Divyansh, learning full-stack and DSA to crack big tech and become a world-class engineer.<br>
 Follow me on [LinkedIn](https://www.linkedin.com/in/divyansh-baghel/)
-Or check out more of my projects!
 
 ---
 
