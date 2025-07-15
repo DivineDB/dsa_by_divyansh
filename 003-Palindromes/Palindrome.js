@@ -10,5 +10,5 @@
 const isPalindrome = str => str === str.split("").reverse().join("")
 ? "Palindrome" : "Not a Palindrome";
 
-console.log(isPalindrome("abba"));
-console.log(isPalindrome("divyansh"));
+console.log(isPalindrome("abba"));         //Palindrome
+console.log(isPalindrome("divyansh"));     //Not a Palindrome
