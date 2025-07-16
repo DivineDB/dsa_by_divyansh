@@ -1,31 +1,29 @@
 # 🧠 DSA by Divyansh
 
-Welcome! This is my personal collection of Data Structures & Algorithms problems that I'm solving regularly to improve my logic-building and problem-solving skills.
-Each folder represents a different problem with clean and tested code.
+Welcome! This is my personal collection of Data Structures & Algorithms problems that I’m solving regularly to sharpen my logic-building and problem-solving skills.  
+Each folder contains clean, tested code focused on one problem.
 
 ---
 
 ## 📁 Folder Structure
 
-| #   | Problem Title        | Language   | Folder Link                    |
-| --- | -------------------- | ---------- | ---------------------------    |
-| 001 | Custom Array in JS   | JavaScript | [View](./001-custom-array/)    |
-| 002 | Reverse String       | JavaScript | [View](./002-Reverse-String/)    |
-| 003 | Palindrome Checker   | JavaScript | [View](./003-Palindromes/) |
+| #   | Problem Title       | Language   | Link |
+|-----|---------------------|------------|------|
+| 001 | Custom Array in JS  | JavaScript | [View](./001-custom-array) |
+| 002 | Reverse String      | JavaScript | [View](./002-Reverse-String) |
+| 003 | Palindrome Checker  | JavaScript | [View](./003-Palindromes) |
 
-> ✅ More folders coming soon as I solve them
+✅ More folders coming soon as I keep solving...
 
 ---
 
 ## 🚀 Platforms I Practice On
-
-- [LeetCode](https://leetcode.com/)
-- [Codeforces](https://codeforces.com/)
+- LeetCode
+- Codeforces
 
 ---
 
 ## 📌 Topics I'm Focusing On
-
 - Arrays & Strings
 - Recursion & Backtracking
 - Hashmaps & Sets
@@ -38,22 +36,17 @@ Each folder represents a different problem with clean and tested code.
 ---
 
 ## 🛠️ Technologies Used
-
-- 💻 JavaScript (mostly for now)
-- 📁 Git + GitHub for version control
-- 🧪 VS Code for writing & testing code
+- 💻 JavaScript (for now)
+- 📁 Git & GitHub for version control
+- 🧪 VS Code for development
 
 ---
 
 ## 👨‍💻 About Me
-
-I'm Divyansh, learning full-stack and DSA to crack big tech and become a world-class engineer.<br>
-Follow me on [LinkedIn](https://www.linkedin.com/in/divyansh-baghel/)
-
----
-
-## ⭐️ If this repo helps you…
-
-Consider giving it a **star** and following for updates as I continue solving 💪
+I'm Divyansh — Learning full-stack and DSA. 
+📎 [Follow me on LinkedIn](https://www.linkedin.com/in/divyansh-baghel/)
 
 ---
+
+## ⭐️ If this repo helps you...
+Give it a ⭐ and follow for regular updates!
